@@ -21,7 +21,7 @@ namespace shipping.demo.net
             InitializeComponent();
         }
 
-        //string url = "http://103.13.245.59:7186/v2";
+        //string url =        "http://103.13.245.59:7186/v2";
         string url = "https://staging.p2shop.com.cn/shipping/v2";
         readonly JsonSerializerSettings jsonFormat = new JsonSerializerSettings
         {
